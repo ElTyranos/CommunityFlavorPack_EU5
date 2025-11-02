@@ -1,0 +1,183 @@
+﻿CFP_headwear = {
+	usage = game
+	selection_behavior = weighted_random
+	priority = 3
+
+	# portrait_is_ruler_of_trigger
+
+	hungarian_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_hungarian_cfp_royalty_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_is_ruler_of_trigger = { COUNTRY = HUN }
+			}
+		}
+	}
+
+	aragon_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_iberian_cfp_aragonese_royalty_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_is_ruler_of_trigger = { COUNTRY = ARA }
+			}
+		}
+	}
+	
+	castile_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_iberian_cfp_castilian_royalty_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_is_ruler_of_trigger = { COUNTRY = CAS }
+			}
+		}
+	}
+
+	iron_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_latin_cfp_icol_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_is_ruler_of_trigger = { COUNTRY = ITA }
+			}
+		}
+	}
+
+	croatian_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_slavic_cfp_croatian_crown_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 999
+				portrait_is_ruler_of_trigger = { COUNTRY = CRO }
+			}
+		}
+	}
+
+	skanderbeg_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_slavic_cfp_skanderbeg_crown_01
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = european_war_nobility
+				accessory = male_clothes_german_armor_black
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_is_ruler_of_trigger = { COUNTRY = ALB }
+			}
+		}
+	}
+
+	# portrait_royalty_trigger
+
+	russian_crown = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_slavic_cfp_monomakh_crown_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_royalty_trigger = { CULTURE_GFX = eastern_european_gfx }
+				culture = { has_culture_group = culture_group:russian_group }
+				is_ruler = yes # we don't want the spouse to wear the same crown as there's no alternate model
+			}
+		}
+	}
+
+	italian_royalty = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_latin_cfp_royalty_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_royalty_trigger = { CULTURE_GFX = european_gfx }
+				culture = { has_culture_group = culture_group:italian_group }
+				is_ruler = yes # we don't want the spouse to wear the same crown as there's no alternate model
+			}
+		}
+	}
+
+	south_east_asia_royalty = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = headwear
+				template = cfp_country_crowns
+				accessory = male_headwear_javanese_cfp_royalty_01
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 1000
+				portrait_royalty_trigger = { CULTURE_GFX = indochina_gfx }
+				is_ruler = yes # we don't want the spouse to wear the same crown as there's no alternate model
+			}
+		}
+	}
+
+}
