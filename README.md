@@ -1,0 +1,24 @@
+# Community Flavor Pack
+for [Europa Universalis V](https://store.steampowered.com/app/3450310/Europa_Universalis_V/)
+
+![Logo](https://i.imgur.com/5iFVlRm.png)
+
+Community Flavor Pack aims to add a lot of historical portrait accessories for your characters. Dress up for war or court as you would be in 1337 and beyond, impress your friends and subjects.
+
+
+### [Download on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2220098919)
+### [Download on Paradox Mods](https://mods.paradoxplaza.com/mods/12560/Any)
+
+## Useful links
+* [Wiki](https://wiki.communityflavorpack.com/)
+* [Suggestion Box](https://suggestionbox.communityflavorpack.com/)
+* [Paradox Forums](https://forum.paradoxplaza.com/forum/threads/mod-community-flavour-pack.1418887/)
+* [Discord](https://discord.gg/tmb7cXT)
+
+## Licence:
+* No Diffusion
+* No Derivative Works
+* No Modification
+* Non Commercial
+
+[More informations about the licence in the wiki](http://wiki.communityflavorpack.com/pages/licence)
