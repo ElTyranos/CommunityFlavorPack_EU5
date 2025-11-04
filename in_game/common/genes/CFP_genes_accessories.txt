@@ -3,7 +3,7 @@
 	INJECT_OR_CREATE:headwear = {
 
 		cfp_country_crowns = {
-			index = 100
+			index = 80
 			male = {
 				1 = male_headwear_hungarian_cfp_royalty_01
 				1 = male_headwear_iberian_cfp_aragonese_royalty_01

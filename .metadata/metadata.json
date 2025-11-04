@@ -1,10 +1,10 @@
 {
 	"name" : "Community Flavor Pack",
-	"id" : "",
+	"id" : "communityflavorpack",
 	"version" : "1.0",
 	"supported_game_version" : "0.1.0",
-	"short_description" : "Additionnal Portraits Content by El Tyranos",
-	"tags" : ["Portraits", "Historical", "Graphics"],
+	"short_description" : "Additionnal Portraits content by El Tyranos",
+	"tags" : ["Characters", "Historical"],
 	"picture": "thumbnail.png",
 	"relationships" : [],
 	"game_custom_data" : {}
