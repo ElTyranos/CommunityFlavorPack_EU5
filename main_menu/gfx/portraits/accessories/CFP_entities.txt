@@ -7,6 +7,7 @@ female_headwear_hungarian_cfp_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_hungarian_cfp_royalty_01_entity   }
 }
+
 male_headwear_iberian_cfp_aragonese_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_iberian_cfp_aragonese_royalty_01_entity   }
@@ -15,6 +16,7 @@ female_headwear_iberian_cfp_aragonese_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_iberian_cfp_aragonese_royalty_01_entity   }
 }
+
 male_headwear_iberian_cfp_castilian_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_iberian_cfp_castilian_royalty_01_entity   }
@@ -23,6 +25,7 @@ female_headwear_iberian_cfp_castilian_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_iberian_cfp_castilian_royalty_01_entity   }
 }
+
 male_headwear_javanese_cfp_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_javanese_cfp_royalty_01_entity   }
@@ -31,6 +34,7 @@ female_headwear_javanese_cfp_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_javanese_cfp_royalty_01_entity   }
 }
+
 male_headwear_latin_cfp_icol_01 = {
 	set_tags = "fully_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_latin_cfp_icol_01_entity   }
@@ -39,6 +43,7 @@ female_headwear_latin_cfp_icol_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_latin_cfp_icol_01_entity   }
 }
+
 male_headwear_latin_cfp_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_latin_cfp_royalty_01_entity   }
@@ -47,6 +52,7 @@ female_headwear_latin_cfp_royalty_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_latin_cfp_royalty_01_entity   }
 }
+
 male_headwear_slavic_cfp_croatian_crown_01 = {
 	set_tags = "hair_covered,ears_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_slavic_cfp_croatian_crown_01_entity   }
@@ -55,6 +61,7 @@ female_headwear_slavic_cfp_croatian_crown_01 = {
 	set_tags = "hair_covered,ears_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_slavic_cfp_croatian_crown_01_entity   }
 }
+
 male_headwear_slavic_cfp_monomakh_crown_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_slavic_cfp_monomakh_crown_01_entity   }
@@ -63,6 +70,7 @@ female_headwear_slavic_cfp_monomakh_crown_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_slavic_cfp_monomakh_crown_01_entity   }
 }
+
 male_headwear_slavic_cfp_skanderbeg_crown_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = male_headwear_slavic_cfp_skanderbeg_crown_01_entity   }
@@ -71,3 +79,5 @@ female_headwear_slavic_cfp_skanderbeg_crown_01 = {
 	set_tags = "hair_covered"
 	entity = { required_tags = ""			shared_pose_entity = head		entity = female_headwear_slavic_cfp_skanderbeg_crown_01_entity   }
 }
+
+## Clothes
