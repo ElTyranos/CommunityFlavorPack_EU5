@@ -35,25 +35,25 @@
 
 	}
 
-	INJECT_OR_CREATE:clothes = {
+	# INJECT_OR_CREATE:clothes = {
 
-		cfp_placeholder = {
-			index = 100
-			male = {
-				1 = empty
-			}
-			female = {
-				1 = empty
-			}
-			boy = male
-			girl = female
-			adolescent_boy = boy
-			adolescent_girl = girl
-			infant = {
-				1 = infant_cloth_swaddle_basic
-			}
-		}
+		# cfp_placeholder = {
+			# index = 100
+			# male = {
+				# 1 = empty
+			# }
+			# female = {
+				# 1 = empty
+			# }
+			# boy = male
+			# girl = female
+			# adolescent_boy = boy
+			# adolescent_girl = girl
+			# infant = {
+				# 1 = infant_cloth_swaddle_basic
+			# }
+		# }
 
-	}
+	# }
 
 }
