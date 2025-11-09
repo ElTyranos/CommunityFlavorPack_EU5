@@ -35,7 +35,7 @@
 		weight = {
 			base = 0
 			modifier = {
-				add = 1000
+				add = 900
 				portrait_is_ruler_of_trigger = { COUNTRY = ARA }
 			}
 		}
@@ -89,7 +89,7 @@
 		weight = {
 			base = 0
 			modifier = {
-				add = 999
+				add = 950
 				portrait_is_ruler_of_trigger = { COUNTRY = CRO }
 			}
 		}
@@ -113,7 +113,7 @@
 		weight = {
 			base = 0
 			modifier = {
-				add = 1000
+				add = 900
 				portrait_is_ruler_of_trigger = { COUNTRY = ALB }
 			}
 		}
